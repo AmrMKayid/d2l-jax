@@ -6,3 +6,4 @@
 - [x] Installation
 - [x] Notation
 - [x] 1. Introduction
+- [x] 2. Preliminaries
